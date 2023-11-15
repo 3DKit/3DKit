@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media.tenor.com/n77zxsWlhxcAAAAC/eating-anime.gif"  />
+![](https://media.tenor.com/n77zxsWlhxcAAAAC/eating-anime.gif)
 
 ###
 
