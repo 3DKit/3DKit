@@ -1,4 +1,4 @@
-[![MasterHead]([[https://3.bp.blogspot.com/-x-XwbA6FFMs/WhAg9nD1eVI/AAAAAAAABLw/6GqtPCczypYVugFEf2eLjeqrOSO6YJtWwCLcBGAs/s1600/ukxRegt.jpg](https://i.redd.it/tu3gt6ysfxq71.png)](https://pbs.twimg.com/media/FpA8AaBXgAAc5Tg.jpg))
+[![MasterHead](https://pbs.twimg.com/media/FpA8AaBXgAAc5Tg.jpg)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
