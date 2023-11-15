@@ -1,4 +1,5 @@
-[![MasterHead]https://m.media-amazon.com/images/M/MV5BNDEwNmZlNzAtZDZkZi00Mzk4LTgxYmEtYmEyMDc1Y2FjNjQzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg
+[![MasterHead]https://3.bp.blogspot.com/-x-XwbA6FFMs/WhAg9nD1eVI/AAAAAAAABLw/6GqtPCczypYVugFEf2eLjeqrOSO6YJtWwCLcBGAs/s1600/ukxRegt.jpg
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
